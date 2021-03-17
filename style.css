@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
+.eleves {
+    border: 1px solid black;
+
+}
+
 #chart {
     height: 400px;
     width: 400px;
